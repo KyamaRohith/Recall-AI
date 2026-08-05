@@ -369,30 +369,6 @@ uvicorn app.main:app --reload
 
 ---
 
-# 📸 Screenshots
-
-> Add screenshots of:
-
-- Dashboard
-- Upload Page
-- Call Records
-- AI Chat
-- Conversation Insights
-
----
-
-# 🤝 Contributing
-
-Contributions, feature requests, and suggestions are welcome.
-
-Feel free to fork the repository and open a Pull Request.
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
 <div align="center">
