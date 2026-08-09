@@ -12,7 +12,7 @@ Transform customer conversations into searchable business intelligence using mul
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![Groq](https://img.shields.io/badge/LLM-Groq-orange)](https://groq.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 </div>
 
